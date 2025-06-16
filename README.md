@@ -1,6 +1,5 @@
 <div align="center">
   <!-- TODO: Thay thế URL_LOGO_CUA_BAN_O_DAY bằng link đến logo của bạn -->
-  <img src="URL_LOGO_CUA_BAN_O_DAY" alt="3T EduTech Logo" width="150"/>
   <h1>3T EduTech - Nền tảng E-Learning Thế hệ Mới</h1>
   <p>
     Một hệ thống Quản lý Học tập (LMS) hoàn chỉnh, được xây dựng với kiến trúc hiện đại, tích hợp Trợ lý AI, Mô hình 3D tương tác và hệ thống thanh toán toàn cầu.
@@ -24,27 +23,29 @@
 
 ## ✨ Các tính năng nổi bật
 
-### 👨‍🎓 Dành cho Học viên
-- **Học tập Tương tác 3D:** Trực quan hóa các khái niệm phức tạp bằng mô hình 3D có thể xoay, phóng to, thu nhỏ.
-- **Trợ lý AI Tutor:** Giải đáp thắc mắc 24/7, hiểu ngữ cảnh bài học để đưa ra câu trả lời chính xác.
-- **Lộ trình học Cá nhân hóa:** AI phân tích kết quả và gợi ý các bài học cần củng cố.
-- **Thanh toán Không biên giới:** Hỗ trợ MoMo, VNPay, PayPal, Stripe và cả **Cryptocurrency**.
-- **Hệ thống Chứng chỉ:** Tự động cấp chứng chỉ (dạng PNG & PDF) sau khi hoàn thành khóa học.
-- **Đa ngôn ngữ & Tiền tệ:** Giao diện và giá cả tự động điều chỉnh theo khu vực người dùng.
+#### 🎓 Dành cho Học viên
 
-### 👩‍🏫 Dành cho Giảng viên
-- **Quản lý Nội dung Toàn diện:** Tạo khóa học với nhiều dạng bài học (Video, Text, Quiz, 3D).
-- **API "Sync Curriculum":** Cập nhật toàn bộ cấu trúc khóa học chỉ trong một lần gọi API, đảm bảo tính nhất quán.
-- **Luồng cập nhật an toàn:** Clone và chỉnh sửa khóa học đã xuất bản mà không ảnh hưởng đến học viên hiện tại.
-- **Quản lý Tài chính Minh bạch:** Dashboard theo dõi doanh thu, số dư, và lịch sử giao dịch chi tiết.
-- **Hệ thống Rút tiền:** Dễ dàng tạo yêu cầu và theo dõi trạng thái chi trả.
+*   🧊 **Học tập Tương tác 3D:** Trực quan hóa các khái niệm phức tạp bằng mô hình 3D có thể xoay, phóng to, thu nhỏ.
+*   🤖 **Trợ lý AI Tutor:** Giải đáp thắc mắc 24/7, hiểu ngữ cảnh bài học để đưa ra câu trả lời chính xác.
+*   🧭 **Lộ trình học Cá nhân hóa:** AI phân tích kết quả và gợi ý các bài học cần củng cố.
+*   🌍 **Thanh toán Không biên giới:** Hỗ trợ MoMo, VNPay, PayPal, Stripe và cả **Bitcoin (BTC)**, **USDT** qua cổng Crypto.
+*   🏆 **Hệ thống Chứng chỉ:** Tự động cấp chứng chỉ (dạng PNG & PDF) sau khi hoàn thành khóa học.
+*   🌐 **Đa ngôn ngữ & Tiền tệ:** Giao diện và giá cả tự động điều chỉnh theo khu vực người dùng.
 
-### 👑 Dành cho Admin
-- **Dashboard Tổng quan:** Theo dõi sức khỏe toàn hệ thống (doanh thu, người dùng, khóa học).
-- **Hệ thống Phê duyệt:** Quy trình chuyên nghiệp để duyệt khóa học, bản cập nhật, và yêu cầu rút tiền.
-- **Quản lý Linh hoạt:** Toàn quyền quản lý người dùng, vai trò, danh mục, và các mã giảm giá.
-- **Cài đặt Hệ thống Động:** Dễ dàng thay đổi các quy tắc kinh doanh (phí hoa hồng, bật/tắt cổng thanh toán) mà không cần can thiệp vào code.
+#### 👩‍🏫 Dành cho Giảng viên
 
+*   📚 **Quản lý Nội dung Toàn diện:** Tạo khóa học với nhiều dạng bài học (Video, Text, Quiz, 3D).
+*   🔄 **API "Sync Curriculum":** Cập nhật toàn bộ cấu trúc khóa học chỉ trong một lần gọi API, đảm bảo tính nhất quán.
+*   🛡️ **Luồng cập nhật an toàn:** Clone và chỉnh sửa khóa học đã xuất bản mà không ảnh hưởng đến học viên hiện tại.
+*   💹 **Quản lý Tài chính Minh bạch:** Dashboard theo dõi doanh thu, số dư, và lịch sử giao dịch chi tiết.
+*   💸 **Hệ thống Rút tiền:** Dễ dàng tạo yêu cầu và theo dõi trạng thái chi trả.
+
+#### 👑 Dành cho Admin
+
+*   📊 **Dashboard Tổng quan:** Theo dõi sức khỏe toàn hệ thống (doanh thu, người dùng, khóa học).
+*   ✅ **Hệ thống Phê duyệt:** Quy trình chuyên nghiệp để duyệt khóa học, bản cập nhật, và yêu cầu rút tiền.
+*   ⚙️ **Quản lý Linh hoạt:** Toàn quyền quản lý người dùng, vai trò, danh mục, và các mã giảm giá.
+*   🔧 **Cài đặt Hệ thống Động:** Dễ dàng thay đổi các quy tắc kinh doanh (phí hoa hồng, bật/tắt cổng thanh toán) mà không cần can thiệp vào code.
 ---
 
 ## 🛠️ Công nghệ sử dụng
@@ -104,7 +105,7 @@ cd <your-project-directory>
 #### 4. Khởi chạy Backend
 ```bash
 # Di chuyển vào thư mục Backend
-cd Backend
+cd .\3TEduTech-BE\
 
 # Cài đặt các dependencies
 npm install
@@ -112,12 +113,13 @@ npm install
 # Khởi chạy server ở chế độ development
 npm run dev
 ```
-Backend sẽ chạy tại `http://localhost:5000` (hoặc cổng bạn đã cấu hình).
+Backend sẽ chạy tại `http://localhost:5000` .
 
 #### 5. Khởi chạy Frontend
 ```bash
 # Mở một terminal mới, di chuyển vào thư mục Frontend
-cd Frontend
+cd .\3TEduTech-FE\
+
 
 # Cài đặt các dependencies
 npm install
