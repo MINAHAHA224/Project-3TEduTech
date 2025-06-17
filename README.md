@@ -63,9 +63,8 @@
 Xem các video demo để có cái nhìn trực quan về các tính năng của dự án.
 
 - **Tour toàn bộ ứng dụng:**
-  - [Link Video Demo đầy đủ](https://www.youtube.com/watch?v=your_video_id) _(Vui lòng cập nhật link của bạn)_
-- **Demo tính năng 3D & AI:**
-  - [Link Video Demo AI/3D](https://www.youtube.com/watch?v=your_video_id) _(Vui lòng cập nhật link của bạn)_
+  - [Link Video Demo đầy đủ](https://www.youtube.com/watch?v=bwpjMijIc30) 
+
 
 ---
 
