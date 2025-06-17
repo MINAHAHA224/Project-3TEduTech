@@ -99,7 +99,7 @@ cd <your-project-directory>
 2.  Tạo một bản sao của mỗi file và đổi tên thành `.env`.
 3.  Mở các file `.env` và điền các thông tin cần thiết (thông tin CSDL, API keys, JWT secret...).
 
-> **Lưu ý quan trọng:** File `.env` chứa các thông tin nhạy cảm. Hãy chắc chắn rằng file `.gitignore` của bạn có dòng `.env` để không vô tình đưa các thông tin bí mật này lên kho chứa Git.
+> **Lưu ý quan trọng:** File `.env` chứa các thông tin nhạy cảm.
 
 #### 4. Khởi chạy Backend
 ```bash
