@@ -165,15 +165,14 @@ Bây giờ, toàn bộ hệ thống đã sẵn sàng hoạt động!
   <p>
     Cảm ơn bạn đã ghé thăm và quan tâm đến dự án <b>3T EduTech</b>!
   </p>
-<hr style="width:50%;">
   <p>
     💬 Mọi thắc mắc hoặc cần hỗ trợ, vui lòng liên hệ với chúng tôi:
   </p>
   <p>
     <!-- TODO: Thay thế bằng các địa chỉ email thật của bạn -->
-    <a href="caothaiiop1234@gmail.com">Cao Duy Thái</a> • 
-    <a href="sonthanh12345678910@gmail.com">Trần Nguyễn Sơn Thành</a> • 
-    <a href="nguyenduythaise1@gmail.com">Nguyễn Duy Thái</a>
+    <a href="mailto:caothaiiop1234@gmail.com">Cao Duy Thái</a> • 
+    <a href="mailto:sonthanh12345678910@gmail.com">Trần Nguyễn Sơn Thành</a> • 
+    <a href="mailto:nguyenduythaise1@gmail.com">Nguyễn Duy Thái</a>
   </p>
 
 </div>
