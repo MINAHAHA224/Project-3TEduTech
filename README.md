@@ -149,6 +149,31 @@ Bây giờ, toàn bộ hệ thống đã sẵn sàng hoạt động!
 
 ---
 
+<p align="right"><a href="#-giới-thiệu-dự-án">⬆️ Quay lại đầu trang</a></p>
+
 <div align="center">
-  Cảm ơn bạn đã ghé thăm dự án 3T EduTech!
+  <p>
+    Dự án được phát triển bởi 
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
+    <polyline points="3.27 6.96 12 12.01 20.73 6.96"></polyline>
+    <line x1="12" y1="22.08" x2="12" y2="12"></line>
+</svg>
+<b>3TSoftWare</b>
+   
+  </p>
+  <p>
+    Cảm ơn bạn đã ghé thăm và quan tâm đến dự án <b>3T EduTech</b>!
+  </p>
+<hr style="width:50%;">
+  <p>
+    💬 Mọi thắc mắc hoặc cần hỗ trợ, vui lòng liên hệ với chúng tôi:
+  </p>
+  <p>
+    <!-- TODO: Thay thế bằng các địa chỉ email thật của bạn -->
+    <a href="caothaiiop1234@gmail.com">Cao Duy Thái</a> • 
+    <a href="sonthanh12345678910@gmail.com">Trần Nguyễn Sơn Thành</a> • 
+    <a href="nguyenduythaise1@gmail.com">Nguyễn Duy Thái</a>
+  </p>
+
 </div>
