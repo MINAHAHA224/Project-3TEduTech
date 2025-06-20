@@ -153,7 +153,7 @@ Bây giờ, toàn bộ hệ thống đã sẵn sàng hoạt động!
 
 <div align="center">
   <p>
-Dự án được phát triển bởi <img src="./logo.svg" alt="3TSoftware Logo" width="15" height="15" style="vertical-align: middle;"> <b>3TSoftWare</b>
+Dự án được phát triển bởi <img src="./logo.svg" alt="3TSoftware Logo" width="15" height="15" style="vertical-align: middle;"> <b>3T</b>
 
    
   </p>
